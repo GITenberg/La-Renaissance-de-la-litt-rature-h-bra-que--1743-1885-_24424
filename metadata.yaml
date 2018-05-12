@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2507
     wikipedia: http://en.wikipedia.org/wiki/Nahum_Slouschz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24424#La-Renaissance-de-la-litt-rature-h-bra-que--1743-1885-
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2008-01-25'
 gutenberg_type: Text
