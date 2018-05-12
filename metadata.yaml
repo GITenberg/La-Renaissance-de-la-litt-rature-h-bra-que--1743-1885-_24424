@@ -1,0 +1,30 @@
+_repo: La-Renaissance-de-la-litt-rature-h-bra-que--1743-1885-_24424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slouschz, Nahum
+    alias: Slousch, Nahum
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '2507'
+    url: http://www.gutenberg.org/2009/agents/2507
+    wikipedia: http://en.wikipedia.org/wiki/Nahum_Slouschz
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2008-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24424'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcc 'PN'
+- !lcsh 'Hebrew literature, Modern -- History and criticism'
+title: La Renaissance de la littérature hébraïque (1743-1885)
+url: http://www.gutenberg.org/ebooks/24424
